@@ -1,9 +1,8 @@
 print("============bienbenido ami calculadora============")
-a= input("ingresaprimer nu´mero")
+a= input("ingresaprimer número")
 b=input("ingresa el segundo numero")
 a=int(a)
 b=int(b )
 print ("la multiplicacion es:",a*b)
 print("la division es :",a/b)
-
 print("=======================GRACIAS===========================")
